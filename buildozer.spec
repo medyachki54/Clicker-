@@ -1,7 +1,7 @@
 !cat <<EOF > buildozer.spec
 [app]
 title = Tap tap - million 
-package.name = myclicker
+package.name = Tap tap - million
 package.domain = org.test
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
