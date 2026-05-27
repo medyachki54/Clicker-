@@ -1,6 +1,6 @@
 !cat <<EOF > buildozer.spec
 [app]
-title = My Clicker
+title = Tap tap -million 
 package.name = myclicker
 package.domain = org.test
 source.dir = .
