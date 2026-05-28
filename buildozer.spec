@@ -1,5 +1,6 @@
 !cat <<EOF > buildozer.spec
 [app]
+orientation = landscape
 title = Clicker game
 package.name = myclicker 
 package.domain = org.test
