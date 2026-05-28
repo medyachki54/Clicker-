@@ -1,8 +1,9 @@
 !cat <<EOF > buildozer.spec
 [app]
-orientation = landscape
 title = Clicker game
 package.name = myclicker 
+icon.filename = %(source.dir)s/icon.png
+orientation = landscape
 package.domain = org.test
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
