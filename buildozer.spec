@@ -1,11 +1,11 @@
 !cat <<EOF > buildozer.spec
 [app]
-title = Tap tap - million 
-package.name = Tap tap - million
+title = Clicker game
+package.name = myclicker 
 package.domain = org.test
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
-version = 0.1.2
+version = 0.1.3
 requirements = python3,kivy
 fullscreen = 0
 android.api = 33
